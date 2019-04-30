@@ -1,1 +1,1 @@
-# E Takip App(React Native)
+# E Takip App with React Native
